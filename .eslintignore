@@ -1,0 +1,5 @@
+!.eslintignore
+
+/vendor/
+/build/
+/node_modules/
