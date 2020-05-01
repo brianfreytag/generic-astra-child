@@ -1,0 +1,20 @@
+{
+    "name": "brianfreytag/generic-astra-child",
+    "description": "Generic Astra Child Wordpress Theme",
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "wptrt/wpthemereview": "^0.2.1",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Freytag",
+            "email": "me@brianfreytag.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
